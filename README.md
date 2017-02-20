@@ -1,1 +1,3 @@
-# drupal6
+# Drupal 6
+
+Used for tests only
